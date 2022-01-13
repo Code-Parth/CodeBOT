@@ -26,7 +26,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(904251590364524594);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -50,7 +51,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931107763982049280);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -74,7 +76,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931107826011607050);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -98,7 +101,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931108001362890804);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -122,7 +126,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931108787887169557);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -146,7 +151,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931107376864591883);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -170,7 +176,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931108030739779616);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -194,7 +201,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931108140513124373);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -218,7 +226,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931108237921632267);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -242,7 +251,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931108299477245963);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -266,7 +276,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931108362345660467);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -290,7 +301,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931109200749289492);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
@@ -314,7 +326,8 @@ namespace CodeBOT.Commands
             var reactionResult = await interactivity.WaitForReactionAsync(x => x.Message == joinMessage && x.User == ctx.User && (x.Emoji == thumbsUpEmoji || x.Emoji == thumbsDownEmoji)).ConfigureAwait(false);
             if (reactionResult.Result.Emoji == thumbsUpEmoji)
             {
-                var role = ctx.Guild.GetRole(931108412371140640);
+                var role = ctx.Guild.GetRole(Here you Paste your selectd Role ID);
+                                          // Here you Paste your selectd Role ID
                 await ctx.Member.GrantRoleAsync(role).ConfigureAwait(false);
             }
             await joinMessage.DeleteAsync().ConfigureAwait(false);
